@@ -1,3 +1,9 @@
+.btn-primary{
+  border: 1px solid salmon;
+  padding: 10px 18px;
+  background: gray;
+  border-radius: 10px;
+}
 .App {
   text-align: center;
 }
